@@ -2,4 +2,4 @@ learning github
 pull request 
 push request
 merge
-merge1S
+merge1
